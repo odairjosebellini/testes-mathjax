@@ -1,2 +1,2 @@
 ## Testes Mathjax
-\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
